@@ -28,7 +28,7 @@ Here is an image of what we want once we are finished:
         └── ProjectItem
 ```
 
-## Deliverables
+## Deliverables 
 
 It's recommended that you run `npm start` and work on this in the browser
 **before** running tests — try to get your app to match the demo! Once you've
